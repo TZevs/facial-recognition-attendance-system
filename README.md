@@ -101,7 +101,7 @@ Press `ESC` to exit.
  
 ---
 ## Credits
-Built following the tutorial: [Face Recognition with Real Time Database | 2 Hour Course | Computer Vision](https://www.youtube.com/watch?v=iBomaK2ARyI) by Murtaza's Workshop.
+This project was built as a portfolio piece following the tutorial [Face Recognition with Real Time Database | 2 Hour Course | Computer Vision](https://www.youtube.com/watch?v=iBomaK2ARyI) by [Murtaza Hassan](https://github.com/murtazahassan).
 
 --- 
 ## Licence
